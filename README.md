@@ -37,7 +37,7 @@ export PROXMOX_VE_API_TOKEN="your_token_id=your_token_secret"
 2.  **Load Environment Variables:**
     Source your `.env` file to load your API credentials and endpoints into your active terminal session.
     
-    i```bash
+    ```bash
     source .env
     ```
 
